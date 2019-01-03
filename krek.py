@@ -1,1 +1,3 @@
 print('kek')
+
+print('lol')
